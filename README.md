@@ -7,4 +7,4 @@ problems using stack data structure-
 4.Prefix to Infix Expression conversion
 5.Postfix expression evaluation
 6.Reversing a string using Stack
-7.
+7.Balanced Paranthesis
